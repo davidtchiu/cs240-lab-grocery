@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.itemChecked {
+  color: grey;
+  text-decoration: line-through;
+}
