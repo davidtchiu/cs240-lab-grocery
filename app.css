@@ -5,8 +5,3 @@
 body {
   background-color: #eeeeee;
 }
-
-.itemChecked {
-  color: grey;
-  text-decoration: line-through;
-}
