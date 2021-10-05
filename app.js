@@ -16,6 +16,6 @@ inputNode.addEventListener("keydown", function (evt) {
     ul.appendChild(newListItem);
 
     // clear out the input field
-    inputNode.value = "";
+    this.value = "";
   }
 });
